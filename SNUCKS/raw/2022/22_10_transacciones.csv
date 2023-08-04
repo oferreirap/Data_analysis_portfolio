@@ -1,0 +1,992 @@
+Almacén,Cliente,Identificación cliente,Telefono cliente,Celular cliente,# factura,Codigo del producto,Detalle producto,Cantidad producto,Cantidad Devueltas,Fecha factura,Precio venta x producto,Precio compra x producto,Descuento,Descuento Total,Venta - descuento,impuesto Total,Impuesto,Subtotal,Total venta,Ciudad,Forma pago,Vendedor,Vendedor2,Usuario,No. Transacción,Promoción,Nota,Categoria,Proveedor,Nota Crédito,Grupo
+Cabecera,general,0,,,No5146,81,Agua Manantial 500g,1,0,2022-10-01 08:47:53,3800,1750,300,300,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5146,,PROPINA,1,0,2022-10-01 08:47:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5147,48,Sandwich de pollo,2,0,2022-10-01 09:12:54,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5147,,PROPINA,1,0,2022-10-01 09:12:54,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5148,0000321,Tea Heat ,1,0,2022-10-01 09:57:53,5000,3500,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5148,47,Omelett napolitano,1,0,2022-10-01 09:57:53,8000,3600,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5148,48,Sandwich de pollo,1,0,2022-10-01 09:57:53,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5148,66,Americano,2,0,2022-10-01 09:57:53,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5148,42,Waffle Fresa y Arandanos,1,0,2022-10-01 09:57:53,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5148,,PROPINA,1,0,2022-10-01 09:57:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5149,66,Americano,1,0,2022-10-01 10:20:01,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5149,,PROPINA,1,0,2022-10-01 10:20:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5150,decom,desayuno completo,1,0,2022-10-01 10:20:58,42000,16500,0,0,42000,0,0,42000,42000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5150,,PROPINA,1,0,2022-10-01 10:20:58,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5151,47,Omelett napolitano,1,0,2022-10-01 10:51:11,8500,3600,0,0,8500,0,0,8500,8500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5151,36,Parfait Balance,1,0,2022-10-01 10:51:11,12500,4500,0,0,12500,0,0,12500,12500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5151,56,Cappucino en bebida Vegetal,1,0,2022-10-01 10:51:11,5000,2300,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5151,46,Omelett queso y champiñones,1,0,2022-10-01 10:51:11,8000,4100,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5151,,PROPINA,1,0,2022-10-01 10:51:11,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5152,37,Bowl de Fruta Salpicon,1,0,2022-10-01 11:29:34,9000,2500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5152,,PROPINA,1,0,2022-10-01 11:29:34,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5153,ARIT,Pan Italiano ,1,0,2022-10-01 11:41:19,11000,8000,0,0,11000,0,0,11000,11000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5153,,PROPINA,1,0,2022-10-01 11:41:19,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5154,40,Bowl Choco Avena,1,0,2022-10-01 12:58:31,12000,4500,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5154,50,Sandwich Napolitano,1,0,2022-10-01 12:58:31,13000,6312,0,0,13000,0,0,13000,13000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5154,,PROPINA,1,0,2022-10-01 12:58:31,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5155,48,Sandwich de pollo,1,0,2022-10-01 18:02:14,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5155,75,Batido Fresa y Banano en leche de vaca,1,0,2022-10-01 18:02:14,10000,4906,0,0,10000,0,0,10000,10000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5155,,PROPINA,1,0,2022-10-01 18:02:14,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5156,79,Soda con frutas,1,0,2022-10-01 18:20:10,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5156,,PROPINA,1,0,2022-10-01 18:20:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5157,66,Americano,1,0,2022-10-01 18:25:40,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5157,,PROPINA,1,0,2022-10-01 18:25:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5158,36,Parfait Balance,1,0,2022-10-01 18:26:01,12500,4500,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5158,,PROPINA,1,0,2022-10-01 18:26:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5159,WHEVA,Waffle con Helado Vainilla,1,0,2022-10-01 18:26:39,16000,7800,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5159,,PROPINA,1,0,2022-10-01 18:26:39,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5160,59,Latte en leche de vaca,1,0,2022-10-01 18:54:13,5000,1600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5160,57,Cappucino en leche de vaca,1,0,2022-10-01 18:54:13,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5160,,PROPINA,1,0,2022-10-01 18:54:13,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5161,79,Soda con frutas,1,0,2022-10-01 19:14:26,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5161,,PROPINA,1,0,2022-10-01 19:14:26,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5162,79,Soda con frutas,1,0,2022-10-01 19:20:52,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5162,20,Café Organico 200 años 250g,1,0,2022-10-01 19:20:52,15000,10500,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5162,,PROPINA,1,0,2022-10-01 19:20:52,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5163,48,Sandwich de pollo,1,0,2022-10-01 19:55:56,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5163,79,Soda con frutas,1,0,2022-10-01 19:55:56,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5163,,PROPINA,1,0,2022-10-01 19:55:56,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5164,40,Bowl Choco Avena,1,0,2022-10-03 08:33:13,12000,4500,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5164,,PROPINA,1,0,2022-10-03 08:33:13,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5165,73,Batido Frutos Rojos,1,0,2022-10-03 08:56:03,14000,6760,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5165,,PROPINA,1,0,2022-10-03 08:56:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5166,57,Cappucino en leche de vaca,1,0,2022-10-03 09:19:13,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5166,,PROPINA,1,0,2022-10-03 09:19:13,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5167,35,Parfait Explosión de Chocolate,1,0,2022-10-03 09:30:01,11000,4000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5167,,PROPINA,1,0,2022-10-03 09:30:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5168,39,Bowl de Avena Natural,2,0,2022-10-03 09:40:59,9000,4500,0,0,9000,0,0,18000,18000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5168,,PROPINA,1,0,2022-10-03 09:40:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5169,45,Omelett solo queso,1,0,2022-10-03 10:12:55,8000,3400,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5169,61,Chocolate Experiencia en leche de Vaca,1,0,2022-10-03 10:12:55,6000,2774,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5169,,PROPINA,1,0,2022-10-03 10:12:55,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5170,48,Sandwich de pollo,1,0,2022-10-03 10:56:53,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5170,,PROPINA,1,0,2022-10-03 10:56:53,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5171,36,Parfait Balance,16,0,2022-10-03 15:14:38,12500,4500,0,0,12500,0,0,200000,200000,Santander,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5171,,PROPINA,1,0,2022-10-03 15:14:38,0,0,0,0,0,0,0,0,0,Santander,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5172,66,Americano,1,0,2022-10-03 15:43:12,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5172,,PROPINA,1,0,2022-10-03 15:43:12,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5173,77,Batido Verde,1,0,2022-10-03 15:54:53,6000,3000,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5173,42,Waffle Fresa y Arandanos,1,0,2022-10-03 15:54:53,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5173,,PROPINA,1,0,2022-10-03 15:54:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5174,38,Bowl de Fruta Frutos Rojos,1,0,2022-10-03 16:41:36,10000,4325,0,0,10000,0,0,10000,10000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5174,,PROPINA,1,0,2022-10-03 16:41:36,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5175,57,Cappucino en leche de vaca,2,0,2022-10-03 16:45:14,3000,1300,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5175,Soda,Soda hatsu ,2,0,2022-10-03 16:45:14,3200,2050,0,0,3200,0,0,6400,6400,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5175,,PROPINA,1,0,2022-10-03 16:45:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5176,Yuca,Arepas de Yuca,1,0,2022-10-03 16:52:04,12000,8000,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5176,72,Batido de la casa en leche de vaca,1,0,2022-10-03 16:52:04,8000,3714,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5176,50,Sandwich Napolitano,3,0,2022-10-03 16:52:04,13000,6312,0,0,13000,0,0,39000,39000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5176,,PROPINA,1,0,2022-10-03 16:52:04,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5177,48,Sandwich de pollo,3,0,2022-10-03 17:31:11,14000,5275,0,0,14000,0,0,42000,42000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5177,58,Latte en bebida Vegetal,2,0,2022-10-03 17:31:11,7500,3000,0,0,7500,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5177,,PROPINA,1,0,2022-10-03 17:31:11,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5178,PM01,Pan de Molde tajado 500gr,1,0,2022-10-03 17:32:37,15500,10500,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,Panadería Saludable ,Reborn,No,sin grupo
+Cabecera,general,0,,,No5178,,PROPINA,1,0,2022-10-03 17:32:37,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5179,24,Barra de chocolate lok 60% 35g,1,0,2022-10-03 17:34:32,5000,3138,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5179,,PROPINA,1,0,2022-10-03 17:34:32,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5180,48,Sandwich de pollo,1,0,2022-10-03 17:46:21,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5180,50,Sandwich Napolitano,1,0,2022-10-03 17:46:21,13000,6312,0,0,13000,0,0,13000,13000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5180,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-03 17:46:21,12000,5678,0,0,12000,0,0,12000,12000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5180,72,Batido de la casa en leche de vaca,2,0,2022-10-03 17:46:21,8000,3714,0,0,8000,0,0,16000,16000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5180,,PROPINA,1,0,2022-10-03 17:46:21,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5181,56,Cappucino en bebida Vegetal,1,0,2022-10-03 18:26:22,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5181,49,Sandwich de atún,1,0,2022-10-03 18:26:22,13500,9300,0,0,13500,0,0,13500,13500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5181,Silk,leche Almendra Silk,1,0,2022-10-03 18:26:22,12000,10000,1000,1000,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5181,,PROPINA,1,0,2022-10-03 18:26:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5182,56,Cappucino en bebida Vegetal,1,0,2022-10-03 18:31:00,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5182,,PROPINA,1,0,2022-10-03 18:31:00,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5183,57,Cappucino en leche de vaca,1,0,2022-10-03 19:25:09,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5183,52,Deditos de Queso Integral,1,0,2022-10-03 19:25:09,5000,3500,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5183,,PROPINA,1,0,2022-10-03 19:25:09,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5184,76,Batido Refrescante,1,0,2022-10-03 19:46:20,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5184,41,Waffle Frutos Amarillos,1,0,2022-10-03 19:46:20,15500,6000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5184,37,Bowl de Fruta Salpicon,1,0,2022-10-03 19:46:20,9000,2500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5184,,PROPINA,1,0,2022-10-03 19:46:20,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5185,37,Bowl de Fruta Salpicon,10,0,2022-10-04 08:44:12,9000,2500,0,0,9000,0,0,90000,90000,Santander,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5185,,PROPINA,1,0,2022-10-04 08:44:12,0,0,0,0,0,0,0,0,0,Santander,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5186,44,Pancakes Tropical,1,0,2022-10-04 09:15:59,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5186,,PROPINA,1,0,2022-10-04 09:15:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5187,46,Omelett queso y champiñones,1,0,2022-10-04 09:16:54,8000,4100,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5187,,PROPINA,1,0,2022-10-04 09:16:54,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5188,39,Bowl de Avena Natural,1,0,2022-10-04 09:17:16,9000,4500,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5188,,PROPINA,1,0,2022-10-04 09:17:16,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5189,48,Sandwich de pollo,2,0,2022-10-04 10:25:26,14000,5275,0,0,14000,0,0,28000,28000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5189,,PROPINA,1,0,2022-10-04 10:25:26,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5190,38,Bowl de Fruta Frutos Rojos,1,0,2022-10-04 10:25:41,10000,4325,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5190,,PROPINA,1,0,2022-10-04 10:25:41,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5191,77,Batido Verde,1,0,2022-10-04 11:06:34,6000,3000,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5191,,PROPINA,1,0,2022-10-04 11:06:34,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5192,48,Sandwich de pollo,1,0,2022-10-04 11:17:22,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5192,60,Chocolate Experiencia en bebida Vegetal,1,0,2022-10-04 11:17:22,9000,4200,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5192,43,Waffle Salado,1,0,2022-10-04 11:17:22,13000,4900,0,0,13000,0,0,13000,13000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5192,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-04 11:17:22,13000,6555,0,0,13000,0,0,13000,13000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5192,,PROPINA,1,0,2022-10-04 11:17:22,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5193,46,Omelett queso y champiñones,1,0,2022-10-04 11:22:33,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5193,,PROPINA,1,0,2022-10-04 11:22:33,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5194,48,Sandwich de pollo,1,0,2022-10-04 16:09:01,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5194,,PROPINA,1,0,2022-10-04 16:09:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5195,66,Americano,2,0,2022-10-04 16:25:24,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5195,ARCA,Babka de cacao,1,0,2022-10-04 16:25:24,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5195,,PROPINA,1,0,2022-10-04 16:25:24,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5196,40,Bowl Choco Avena,1,0,2022-10-04 16:52:33,13000,4500,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5196,,PROPINA,1,0,2022-10-04 16:52:33,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5197,51,Torta del día,1,0,2022-10-04 17:14:05,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5197,,PROPINA,1,0,2022-10-04 17:14:05,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5198,00002,Quinoa Club,1,0,2022-10-04 17:14:18,2200,1200,0,0,2200,0,0,2200,2200,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5198,,PROPINA,1,0,2022-10-04 17:14:18,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5199,58,Latte en bebida Vegetal,1,0,2022-10-04 18:31:36,7500,3000,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5199,42,Waffle Fresa y Arandanos,1,0,2022-10-04 18:31:36,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5199,49,Sandwich de atún,1,0,2022-10-04 18:31:36,13500,9300,0,0,13500,0,0,13500,13500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5199,48,Sandwich de pollo,3,0,2022-10-04 18:31:36,14000,5275,0,0,14000,0,0,42000,42000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5199,aguaplas01,agua plastica,1,0,2022-10-04 18:31:36,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5199,,PROPINA,1,0,2022-10-04 18:31:36,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5200,57,Cappucino en leche de vaca,1,0,2022-10-04 19:23:30,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5200,76,Batido Refrescante,1,0,2022-10-04 19:23:30,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5200,RAC,Roscones de arequipe y coco Artesano,1,0,2022-10-04 19:23:30,12000,9000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5200,PJCA,Pan de jamon y cuajada artesano,1,0,2022-10-04 19:23:30,12000,9000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5200,,PROPINA,1,0,2022-10-04 19:23:30,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5201,39,Bowl de Avena Natural,1,0,2022-10-05 09:05:45,9000,4500,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5201,47,Omelett napolitano,1,0,2022-10-05 09:05:45,8000,3600,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5201,,PROPINA,1,0,2022-10-05 09:05:45,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5202,44,Pancakes Tropical,1,0,2022-10-05 09:54:47,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5202,,PROPINA,1,0,2022-10-05 09:54:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5203,48,Sandwich de pollo,1,0,2022-10-05 10:19:41,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5203,35,Parfait Explosión de Chocolate,1,0,2022-10-05 10:19:41,11000,4000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5203,,PROPINA,1,0,2022-10-05 10:19:41,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5204,48,Sandwich de pollo,1,0,2022-10-05 10:23:34,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5204,,PROPINA,1,0,2022-10-05 10:23:34,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5205,42,Waffle Fresa y Arandanos,1,0,2022-10-05 11:13:22,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5205,,PROPINA,1,0,2022-10-05 11:13:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5206,48,Sandwich de pollo,1,0,2022-10-05 11:42:26,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5206,56,Cappucino en bebida Vegetal,1,0,2022-10-05 11:42:26,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5206,,PROPINA,1,0,2022-10-05 11:42:26,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5207,48,Sandwich de pollo,1,0,2022-10-05 12:24:24,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5207,44,Pancakes Tropical,1,0,2022-10-05 12:24:24,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5207,,PROPINA,1,0,2022-10-05 12:24:24,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5208,66,Americano,2,0,2022-10-05 16:03:37,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5208,,PROPINA,1,0,2022-10-05 16:03:37,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5209,56,Cappucino en bebida Vegetal,1,0,2022-10-05 16:46:10,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5209,57,Cappucino en leche de vaca,1,0,2022-10-05 16:46:10,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5209,,PROPINA,1,0,2022-10-05 16:46:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5210,51,Torta del día,1,0,2022-10-05 17:00:48,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5210,66,Americano,1,0,2022-10-05 17:00:48,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5210,,PROPINA,1,0,2022-10-05 17:00:48,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5211,YGS05,Yogurt Griego 500g Syrus,2,0,2022-10-05 17:07:30,15000,10500,0,0,15000,0,0,30000,30000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5211,48,Sandwich de pollo,3,0,2022-10-05 17:07:30,14000,5275,0,0,14000,0,0,42000,42000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5211,ARIT,Pan Italiano ,1,0,2022-10-05 17:07:30,11000,8000,0,0,11000,0,0,11000,11000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5211,,PROPINA,1,0,2022-10-05 17:07:30,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5212,42,Waffle Fresa y Arandanos,3,0,2022-10-05 17:45:15,15500,5000,0,0,15500,0,0,46500,46500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5212,62,Té Chai en bebida vegetal,1,0,2022-10-05 17:45:15,6500,2500,0,0,6500,0,0,6500,6500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5212,70,Aromatica de Maracumango,1,0,2022-10-05 17:45:15,3000,1081,0,0,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5212,,PROPINA,1,0,2022-10-05 17:45:15,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5213,39,Bowl de Avena Natural,1,0,2022-10-05 17:59:50,9500,4500,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5213,,PROPINA,1,0,2022-10-05 17:59:50,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5214,37,Bowl de Fruta Salpicon,1,0,2022-10-05 18:57:04,9500,2500,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5214,,PROPINA,1,0,2022-10-05 18:57:04,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5215,44,Pancakes Tropical,1,0,2022-10-05 19:12:32,15500,7270,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5215,,PROPINA,1,0,2022-10-05 19:12:32,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5216,48,Sandwich de pollo,1,0,2022-10-05 19:30:49,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5216,,PROPINA,1,0,2022-10-05 19:30:49,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5217,YGS05,Yogurt Griego 500g Syrus,1,0,2022-10-05 19:39:32,15000,10500,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5217,77,Batido Verde,1,0,2022-10-05 19:39:32,6000,3000,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5217,,PROPINA,1,0,2022-10-05 19:39:32,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5218,52,Deditos de Queso Integral,1,0,2022-10-06 08:20:57,5000,3500,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5218,37,Bowl de Fruta Salpicon,1,0,2022-10-06 08:20:57,9500,2500,0,0,9500,0,0,9500,9500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5218,,PROPINA,1,0,2022-10-06 08:20:57,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5219,45,Omelett solo queso,1,0,2022-10-06 10:04:45,8000,3400,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5219,FRUTA,Porción fruta,1,0,2022-10-06 10:04:45,5000,2200,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5219,,PROPINA,1,0,2022-10-06 10:04:45,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5220,CSF,Chocolate sugar free 85g,1,0,2022-10-06 10:05:10,14000,10800,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5220,48,Sandwich de pollo,1,0,2022-10-06 10:05:10,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5220,38,Bowl de Fruta Frutos Rojos,1,0,2022-10-06 10:05:10,10000,4325,0,0,10000,0,0,10000,10000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5220,,PROPINA,1,0,2022-10-06 10:05:10,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5221,48,Sandwich de pollo,1,0,2022-10-06 10:40:51,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5221,44,Pancakes Tropical,1,0,2022-10-06 10:40:51,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5221,,PROPINA,1,0,2022-10-06 10:40:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5222,42,Waffle Fresa y Arandanos,1,0,2022-10-06 11:45:51,16000,5000,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5222,51,Torta del día,1,0,2022-10-06 11:45:51,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5222,,PROPINA,1,0,2022-10-06 11:45:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5223,48,Sandwich de pollo,1,0,2022-10-06 12:23:40,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5223,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-06 12:23:40,13000,6555,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5223,,PROPINA,1,0,2022-10-06 12:23:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5224,51,Torta del día,1,0,2022-10-06 15:28:10,7500,3238,0,0,7500,0,0,7500,7500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5224,,PROPINA,1,0,2022-10-06 15:28:10,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5226,35,Parfait Explosión de Chocolate,1,0,2022-10-06 16:36:53,11500,4000,0,0,11500,0,0,11500,11500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5226,,PROPINA,1,0,2022-10-06 16:36:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5227,Yuca,Arepas de Yuca,2,0,2022-10-06 17:33:32,12000,8000,0,0,12000,0,0,24000,24000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5227,,PROPINA,1,0,2022-10-06 17:33:32,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5228,46,Omelett queso y champiñones,1,0,2022-10-06 17:54:39,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5228,77,Batido Verde,1,0,2022-10-06 17:54:39,6000,3000,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5228,48,Sandwich de pollo,1,0,2022-10-06 17:54:39,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5228,,PROPINA,1,0,2022-10-06 17:54:39,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5229,54,Empanadas Integrales,3,0,2022-10-06 17:58:15,5000,3600,0,0,5000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5229,,PROPINA,1,0,2022-10-06 17:58:15,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5230,44,Pancakes Tropical,1,0,2022-10-06 18:30:54,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5230,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-06 18:30:54,13000,6555,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5230,,PROPINA,1,0,2022-10-06 18:30:54,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5231,48,Sandwich de pollo,1,0,2022-10-06 18:49:43,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5231,,PROPINA,1,0,2022-10-06 18:49:43,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5232,MIXC130g,Mix de chocococo 130g,1,0,2022-10-06 18:50:14,10000,5000,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5232,33,Granola Artesanal Fiocchi 300g,1,0,2022-10-06 18:50:14,25000,18750,0,0,25000,0,0,25000,25000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5232,77,Batido Verde,1,0,2022-10-06 18:50:14,6000,3000,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5232,,PROPINA,1,0,2022-10-06 18:50:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5233,43,Waffle Salado,1,0,2022-10-06 19:11:33,13000,4900,0,0,13000,0,0,13000,13000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5233,73,Batido Frutos Rojos,1,0,2022-10-06 19:11:33,14000,6760,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5233,36,Parfait Balance,1,0,2022-10-06 19:11:33,12500,4500,0,0,12500,0,0,12500,12500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5233,,PROPINA,1,0,2022-10-06 19:11:33,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5234,48,Sandwich de pollo,1,0,2022-10-07 09:18:27,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5234,62,Té Chai en bebida vegetal,1,0,2022-10-07 09:18:27,6500,2500,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5234,,PROPINA,1,0,2022-10-07 09:18:27,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5235,44,Pancakes Tropical,1,0,2022-10-07 10:33:05,15500,7270,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5235,48,Sandwich de pollo,1,0,2022-10-07 10:33:05,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5235,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-07 10:33:05,13000,6555,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5235,,PROPINA,1,0,2022-10-07 10:33:05,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5236,48,Sandwich de pollo,2,0,2022-10-07 10:34:07,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5236,46,Omelett queso y champiñones,1,0,2022-10-07 10:34:07,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5236,57,Cappucino en leche de vaca,1,0,2022-10-07 10:34:07,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5236,50,Sandwich Napolitano,1,0,2022-10-07 10:34:07,13000,6312,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5236,66,Americano,1,0,2022-10-07 10:34:07,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5236,42,Waffle Fresa y Arandanos,1,0,2022-10-07 10:34:07,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5236,,PROPINA,1,0,2022-10-07 10:34:07,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5237,46,Omelett queso y champiñones,1,0,2022-10-07 11:04:59,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5237,76,Batido Refrescante,1,0,2022-10-07 11:04:59,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5237,57,Cappucino en leche de vaca,1,0,2022-10-07 11:04:59,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5237,,PROPINA,1,0,2022-10-07 11:04:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5238,39,Bowl de Avena Natural,1,0,2022-10-07 11:32:39,9000,4500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5238,,PROPINA,1,0,2022-10-07 11:32:39,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5239,35,Parfait Explosión de Chocolate,1,0,2022-10-07 12:10:17,11500,4000,0,0,11500,0,0,11500,11500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5239,,PROPINA,1,0,2022-10-07 12:10:17,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5240,76,Batido Refrescante,1,0,2022-10-07 17:18:26,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5240,,PROPINA,1,0,2022-10-07 17:18:26,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5241,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-07 17:32:22,12000,5678,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5241,37,Bowl de Fruta Salpicon,1,0,2022-10-07 17:32:22,9000,2500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5241,,PROPINA,1,0,2022-10-07 17:32:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5242,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-07 18:10:42,13000,6555,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5242,48,Sandwich de pollo,1,0,2022-10-07 18:10:42,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5242,,PROPINA,1,0,2022-10-07 18:10:42,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5243,aguaplas01,agua plastica,1,0,2022-10-07 18:56:25,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5243,48,Sandwich de pollo,2,0,2022-10-07 18:56:25,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5243,,PROPINA,1,0,2022-10-07 18:56:25,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5244,76,Batido Refrescante,1,0,2022-10-08 08:21:28,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5244,,PROPINA,1,0,2022-10-08 08:21:28,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5245,46,Omelett queso y champiñones,1,0,2022-10-08 08:34:47,8500,4100,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5245,76,Batido Refrescante,1,0,2022-10-08 08:34:47,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5245,57,Cappucino en leche de vaca,1,0,2022-10-08 08:34:47,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5245,,PROPINA,1,0,2022-10-08 08:34:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5246,44,Pancakes Tropical,1,0,2022-10-08 08:50:06,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5246,,PROPINA,1,0,2022-10-08 08:50:06,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5247,aguaplas01,agua plastica,1,0,2022-10-08 09:07:40,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5247,,PROPINA,1,0,2022-10-08 09:07:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5248,48,Sandwich de pollo,1,0,2022-10-08 09:44:24,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5248,,PROPINA,1,0,2022-10-08 09:44:24,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5249,57,Cappucino en leche de vaca,1,0,2022-10-08 09:51:11,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5249,48,Sandwich de pollo,1,0,2022-10-08 09:51:11,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5249,66,Americano,1,0,2022-10-08 09:51:11,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5249,,PROPINA,1,0,2022-10-08 09:51:11,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5250,ARNU,Trenza de nueces ,1,0,2022-10-08 09:56:33,10500,8000,0,0,10500,0,0,10500,10500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5250,69,Aromatica de frutos Rojos,1,0,2022-10-08 09:56:33,3000,1500,0,0,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5250,48,Sandwich de pollo,1,0,2022-10-08 09:56:33,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5250,35,Parfait Explosión de Chocolate,1,0,2022-10-08 09:56:33,11000,4000,0,0,11000,0,0,11000,11000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5250,Salm,Galletas de avena ,1,0,2022-10-08 09:56:33,2300,1664,0,0,2300,0,0,2300,2300,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5250,CMC1,Crema de Choco Mani 130g,1,0,2022-10-08 09:56:33,9000,5500,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,Cremas de Mani,,No,sin grupo
+Cabecera,general,0,,,No5250,CMM1,Crema de Mani Miel 130g,1,0,2022-10-08 09:56:33,6500,5000,0,0,6500,0,0,6500,6500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,Cremas de Mani,,No,sin grupo
+Cabecera,general,0,,,No5250,SG01,Semillas de girasol,1,0,2022-10-08 09:56:33,10000,7000,7000,7000,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5250,,PROPINA,1,0,2022-10-08 09:56:33,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5252,76,Batido Refrescante,1,0,2022-10-08 09:59:45,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5252,47,Omelett napolitano,1,0,2022-10-08 09:59:45,8000,3600,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5252,48,Sandwich de pollo,1,0,2022-10-08 09:59:45,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5252,62,Té Chai en bebida vegetal,1,0,2022-10-08 09:59:45,6500,2500,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5252,,PROPINA,1,0,2022-10-08 09:59:45,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5253,47,Omelett napolitano,3,0,2022-10-08 10:14:53,8500,3600,0,0,8500,0,0,25500,25500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5253,73,Batido Frutos Rojos,2,0,2022-10-08 10:14:53,14000,6760,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5253,69,Aromatica de frutos Rojos,1,0,2022-10-08 10:14:53,3000,1500,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5253,,PROPINA,1,0,2022-10-08 10:14:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5254,46,Omelett queso y champiñones,1,0,2022-10-08 10:31:08,8500,4100,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5254,54,Empanadas Integrales,1,0,2022-10-08 10:31:08,5000,3600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5254,,PROPINA,1,0,2022-10-08 10:31:08,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5255,48,Sandwich de pollo,1,0,2022-10-08 11:16:09,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5255,,PROPINA,1,0,2022-10-08 11:16:09,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5256,48,Sandwich de pollo,1,0,2022-10-08 11:39:03,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5256,35,Parfait Explosión de Chocolate,1,0,2022-10-08 11:39:03,11000,4000,0,0,11000,0,0,11000,11000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5256,46,Omelett queso y champiñones,1,0,2022-10-08 11:39:03,8000,4100,0,0,8000,0,0,8000,8000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5256,FRUTA,Porción fruta,1,0,2022-10-08 11:39:03,5000,2200,0,0,5000,0,0,5000,5000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5256,61,Chocolate Experiencia en leche de Vaca,1,0,2022-10-08 11:39:03,6000,2774,0,0,6000,0,0,6000,6000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5256,,PROPINA,1,0,2022-10-08 11:39:03,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5257,73,Batido Frutos Rojos,1,0,2022-10-08 11:44:39,14000,6760,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5257,37,Bowl de Fruta Salpicon,1,0,2022-10-08 11:44:39,10000,2500,0,0,10000,0,0,10000,10000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5257,48,Sandwich de pollo,1,0,2022-10-08 11:44:39,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5257,,PROPINA,1,0,2022-10-08 11:44:39,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5259,66,Americano,3,0,2022-10-08 11:46:00,3000,1000,0,0,3000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5259,,PROPINA,1,0,2022-10-08 11:46:00,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5260,79,Soda con frutas,1,0,2022-10-08 11:58:01,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5260,48,Sandwich de pollo,1,0,2022-10-08 11:58:01,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5260,76,Batido Refrescante,1,0,2022-10-08 11:58:01,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5260,,PROPINA,1,0,2022-10-08 11:58:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5261,75,Batido Fresa y Banano en leche de vaca,1,0,2022-10-08 12:06:24,10000,4906,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5261,00002,Quinoa Club,1,0,2022-10-08 12:06:24,2200,1200,0,0,2200,0,0,2200,2200,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5261,,PROPINA,1,0,2022-10-08 12:06:24,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5262,67,Espresso Sencillo,1,0,2022-10-08 17:22:45,2500,608,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5262,,PROPINA,1,0,2022-10-08 17:22:45,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5263,49,Sandwich de atún,1,0,2022-10-08 18:10:10,13500,9300,0,0,13500,0,0,13500,13500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5263,,PROPINA,1,0,2022-10-08 18:10:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5264,48,Sandwich de pollo,1,0,2022-10-08 19:53:43,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5264,,PROPINA,1,0,2022-10-08 19:53:43,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5265,36,Parfait Balance,1,0,2022-10-09 09:27:51,12500,4500,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5265,39,Bowl de Avena Natural,1,0,2022-10-09 09:27:51,9000,4500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5265,47,Omelett napolitano,1,0,2022-10-09 09:27:51,8000,3600,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5265,,PROPINA,1,0,2022-10-09 09:27:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5266,38,Bowl de Fruta Frutos Rojos,2,0,2022-10-09 09:56:51,10000,4325,0,0,10000,0,0,20000,20000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5266,46,Omelett queso y champiñones,1,0,2022-10-09 09:56:51,8000,4100,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5266,52,Deditos de Queso Integral,1,0,2022-10-09 09:56:51,5000,3500,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5266,,PROPINA,1,0,2022-10-09 09:56:51,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5267,35,Parfait Explosión de Chocolate,1,0,2022-10-09 11:01:48,11000,4000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5267,76,Batido Refrescante,2,0,2022-10-09 11:01:48,6000,2589,0,0,6000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5267,39,Bowl de Avena Natural,1,0,2022-10-09 11:01:48,9000,4500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5267,48,Sandwich de pollo,2,0,2022-10-09 11:01:48,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5267,Soda,Soda hatsu ,2,0,2022-10-09 11:01:48,5000,2050,0,0,5000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5267,61,Chocolate Experiencia en leche de Vaca,1,0,2022-10-09 11:01:48,6000,2774,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5267,,PROPINA,1,0,2022-10-09 11:01:48,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5268,FRUTA,Porción fruta,1,0,2022-10-09 11:11:17,5000,2200,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5268,48,Sandwich de pollo,2,0,2022-10-09 11:11:17,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5268,66,Americano,1,0,2022-10-09 11:11:17,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5268,56,Cappucino en bebida Vegetal,1,0,2022-10-09 11:11:17,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5268,,PROPINA,1,0,2022-10-09 11:11:17,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5269,48,Sandwich de pollo,1,0,2022-10-09 11:44:17,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5269,,PROPINA,1,0,2022-10-09 11:44:17,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5270,decom,desayuno completo,1,0,2022-10-09 12:42:37,42000,16500,0,0,42000,0,0,42000,42000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5270,,PROPINA,1,0,2022-10-09 12:42:37,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5271,56,Cappucino en bebida Vegetal,1,0,2022-10-09 12:49:05,5000,2300,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5271,35,Parfait Explosión de Chocolate,1,0,2022-10-09 12:49:05,11000,4000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5271,decom,desayuno completo,1,0,2022-10-09 12:49:05,40000,16500,0,0,40000,0,0,40000,40000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5271,,PROPINA,1,0,2022-10-09 12:49:05,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5272,52,Deditos de Queso Integral,10,0,2022-10-18 09:58:15,5000,3500,0,0,5000,0,0,50000,50000,Santander,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5272,73,Batido Frutos Rojos,16,0,2022-10-18 09:58:15,14000,6760,9000,144000,5000,0,0,80000,80000,Santander,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5272,54,Empanadas Integrales,6,0,2022-10-18 09:58:15,5000,3600,0,0,5000,0,0,30000,30000,Santander,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,CORPORACION ESSA,804016865,,,No5272,,PROPINA,1,0,2022-10-18 09:58:15,0,0,0,0,0,0,0,0,0,Santander,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5273,46,Omelett queso y champiñones,1,0,2022-10-18 10:23:20,8000,4100,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5273,47,Omelett napolitano,1,0,2022-10-18 10:23:20,8000,3600,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5273,66,Americano,3,0,2022-10-18 10:23:20,3000,1000,0,0,3000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5273,42,Waffle Fresa y Arandanos,1,0,2022-10-18 10:23:20,15500,5000,0,0,15500,0,0,15500,15500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5273,51,Torta del día,1,0,2022-10-18 10:23:20,9000,3238,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5273,,PROPINA,1,0,2022-10-18 10:23:20,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5274,51,Torta del día,1,0,2022-10-18 10:53:33,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5274,43,Waffle Salado,1,0,2022-10-18 10:53:33,13000,4900,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5274,59,Latte en leche de vaca,1,0,2022-10-18 10:53:33,5000,1600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5274,76,Batido Refrescante,1,0,2022-10-18 10:53:33,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5274,,PROPINA,1,0,2022-10-18 10:53:33,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5275,44,Pancakes Tropical,1,0,2022-10-18 11:04:52,15500,7270,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5275,,PROPINA,1,0,2022-10-18 11:04:52,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5277,37,Bowl de Fruta Salpicon,10,0,2022-10-18 15:12:57,9500,2500,0,0,9500,0,0,95000,95000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5277,,PROPINA,1,0,2022-10-18 15:12:57,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5278,46,Omelett queso y champiñones,1,0,2022-10-18 18:18:22,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5278,,PROPINA,1,0,2022-10-18 18:18:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5279,48,Sandwich de pollo,2,0,2022-10-18 18:47:37,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5279,,PROPINA,1,0,2022-10-18 18:47:37,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5280,42,Waffle Fresa y Arandanos,1,0,2022-10-18 19:05:26,20500,5000,0,0,20500,0,0,20500,20500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5280,48,Sandwich de pollo,2,0,2022-10-18 19:05:26,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5280,,PROPINA,1,0,2022-10-18 19:05:26,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5281,MFR2,Mermelada de Frutos rojos 250g,1,0,2022-10-18 19:16:13,12000,8000,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,Mermeladas,snucks,No,sin grupo
+Cabecera,general,0,,,No5281,Cactus,Cactus,2,0,2022-10-18 19:16:13,22000,16000,0,0,22000,0,0,44000,44000,,nequi,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5281,CSF,Chocolate sugar free 85g,2,0,2022-10-18 19:16:13,14000,10800,0,0,14000,0,0,28000,28000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5281,CMC1,Crema de Choco Mani 130g,1,0,2022-10-18 19:16:13,9000,5500,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,Cremas de Mani,,No,sin grupo
+Cabecera,general,0,,,No5281,,PROPINA,1,0,2022-10-18 19:16:13,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5282,CMM2,Crema de Mani Miel 240g,1,0,2022-10-18 19:16:24,11000,8000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,Cremas de Mani,snucks,No,sin grupo
+Cabecera,general,0,,,No5282,MOCA,Mogollas de cuajada Artesano,1,0,2022-10-18 19:16:24,11000,8000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5282,Yuca,Arepas de Yuca,1,0,2022-10-18 19:16:24,12000,8000,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5282,,PROPINA,1,0,2022-10-18 19:16:24,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5283,48,Sandwich de pollo,1,0,2022-10-18 19:56:34,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5283,35,Parfait Explosión de Chocolate,1,0,2022-10-18 19:56:34,11000,4000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5283,YGS05,Yogurt Griego 500g Syrus,2,0,2022-10-18 19:56:34,15000,10500,0,0,15000,0,0,30000,30000,,nequi,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5283,72,Batido de la casa en leche de vaca,1,0,2022-10-18 19:56:34,8000,3714,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5283,,PROPINA,1,0,2022-10-18 19:56:34,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5284,48,Sandwich de pollo,1,0,2022-10-19 08:28:19,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5284,37,Bowl de Fruta Salpicon,1,0,2022-10-19 08:28:19,9500,2500,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5284,,PROPINA,1,0,2022-10-19 08:28:19,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5285,46,Omelett queso y champiñones,1,0,2022-10-19 08:52:37,8500,4100,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5285,,PROPINA,1,0,2022-10-19 08:52:37,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5286,48,Sandwich de pollo,2,0,2022-10-19 09:17:58,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5286,,PROPINA,1,0,2022-10-19 09:17:58,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5287,47,Omelett napolitano,1,0,2022-10-19 10:06:52,8500,3600,0,0,8500,0,0,8500,8500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5287,65,Té Matcha en leche de Vaca,1,0,2022-10-19 10:06:52,4300,1700,0,0,4300,0,0,4300,4300,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5287,,PROPINA,1,0,2022-10-19 10:06:52,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5288,48,Sandwich de pollo,1,0,2022-10-19 10:18:50,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5288,36,Parfait Balance,1,0,2022-10-19 10:18:50,13000,4500,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5288,57,Cappucino en leche de vaca,2,0,2022-10-19 10:18:50,3000,1300,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5288,,PROPINA,1,0,2022-10-19 10:18:50,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5289,48,Sandwich de pollo,1,0,2022-10-19 10:19:46,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5289,36,Parfait Balance,1,0,2022-10-19 10:19:46,13000,4500,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5289,,PROPINA,1,0,2022-10-19 10:19:46,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5290,39,Bowl de Avena Natural,1,0,2022-10-19 11:00:24,9000,4500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5290,40,Bowl Choco Avena,1,0,2022-10-19 11:00:24,12000,4500,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5290,51,Torta del día,1,0,2022-10-19 11:00:24,7500,3238,1500,1500,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5290,64,Té Matcha en bebida Vegetal,1,0,2022-10-19 11:00:24,7000,2600,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5290,,PROPINA,1,0,2022-10-19 11:00:24,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5291,64,Té Matcha en bebida Vegetal,1,0,2022-10-19 12:52:46,6800,2600,0,0,6800,0,0,6800,6800,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5291,39,Bowl de Avena Natural,1,0,2022-10-19 12:52:46,9000,4500,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5291,46,Omelett queso y champiñones,2,0,2022-10-19 12:52:46,8500,4100,0,0,8500,0,0,17000,17000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5291,,PROPINA,1,0,2022-10-19 12:52:46,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5292,48,Sandwich de pollo,2,0,2022-10-19 13:32:06,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5292,57,Cappucino en leche de vaca,1,0,2022-10-19 13:32:06,4000,1300,0,0,4000,0,0,4000,4000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5292,,PROPINA,1,0,2022-10-19 13:32:06,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5293,aguaplas01,agua plastica,1,0,2022-10-19 16:33:28,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5293,,PROPINA,1,0,2022-10-19 16:33:28,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5294,75,Batido Fresa y Banano en leche de vaca,1,0,2022-10-19 16:41:18,10000,4906,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5294,66,Americano,1,0,2022-10-19 16:41:18,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5294,,PROPINA,1,0,2022-10-19 16:41:18,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5295,66,Americano,4,0,2022-10-19 16:42:21,3000,1000,0,0,3000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5295,ARBO,Moño de bocadillo y queso ,1,0,2022-10-19 16:42:21,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5295,,PROPINA,1,0,2022-10-19 16:42:21,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5296,66,Americano,1,0,2022-10-19 17:04:10,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5296,aguaplas01,agua plastica,1,0,2022-10-19 17:04:10,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5296,,PROPINA,1,0,2022-10-19 17:04:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5297,66,Americano,1,0,2022-10-19 17:13:37,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5297,51,Torta del día,1,0,2022-10-19 17:13:37,7500,3238,1500,1500,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5297,,PROPINA,1,0,2022-10-19 17:13:37,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5298,44,Pancakes Tropical,1,0,2022-10-19 18:17:36,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5298,,PROPINA,1,0,2022-10-19 18:17:36,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5299,48,Sandwich de pollo,1,0,2022-10-19 18:25:59,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5299,57,Cappucino en leche de vaca,1,0,2022-10-19 18:25:59,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5299,,PROPINA,1,0,2022-10-19 18:25:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5300,48,Sandwich de pollo,1,0,2022-10-19 19:07:58,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5300,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-19 19:07:58,12000,5678,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5300,,PROPINA,1,0,2022-10-19 19:07:58,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5301,52,Deditos de Queso Integral,1,0,2022-10-20 09:30:44,5000,3500,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5301,57,Cappucino en leche de vaca,1,0,2022-10-20 09:30:44,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5301,,PROPINA,1,0,2022-10-20 09:30:44,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5302,66,Americano,2,0,2022-10-20 09:37:02,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5302,,PROPINA,1,0,2022-10-20 09:37:02,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5303,60,Chocolate Experiencia en bebida Vegetal,5,0,2022-10-20 10:55:48,9000,4200,0,0,9000,0,0,45000,45000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5303,48,Sandwich de pollo,1,0,2022-10-20 10:55:48,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5303,50,Sandwich Napolitano,2,0,2022-10-20 10:55:48,13000,6312,0,0,13000,0,0,26000,26000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5303,46,Omelett queso y champiñones,1,0,2022-10-20 10:55:48,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5303,43,Waffle Salado,1,0,2022-10-20 10:55:48,13000,4900,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5303,,PROPINA,1,0,2022-10-20 10:55:48,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5304,62,Té Chai en bebida vegetal,1,0,2022-10-20 11:17:03,6500,2500,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5304,51,Torta del día,1,0,2022-10-20 11:17:03,7500,3238,1000,1000,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5304,PJCA,Pan de jamon y cuajada artesano,1,0,2022-10-20 11:17:03,12000,9000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5304,,PROPINA,1,0,2022-10-20 11:17:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5305,67,Espresso Sencillo,1,0,2022-10-20 11:25:12,2500,608,0,0,2500,0,0,2500,2500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5305,,PROPINA,1,0,2022-10-20 11:25:12,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5306,50,Sandwich Napolitano,1,0,2022-10-20 11:56:49,13000,6312,0,0,13000,0,0,13000,13000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5306,39,Bowl de Avena Natural,1,0,2022-10-20 11:56:49,9500,4500,0,0,9500,0,0,9500,9500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5306,51,Torta del día,1,0,2022-10-20 11:56:49,9000,3238,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5306,,PROPINA,1,0,2022-10-20 11:56:49,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5307,48,Sandwich de pollo,2,0,2022-10-20 11:57:18,14000,5275,0,0,14000,0,0,28000,28000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5307,76,Batido Refrescante,2,0,2022-10-20 11:57:18,6000,2589,0,0,6000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5307,,PROPINA,1,0,2022-10-20 11:57:18,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5308,35,Parfait Explosión de Chocolate,1,0,2022-10-20 16:22:50,11500,4000,0,0,11500,0,0,11500,11500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5308,41,Waffle Frutos Amarillos,1,0,2022-10-20 16:22:50,20500,6000,0,0,20500,0,0,20500,20500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5308,,PROPINA,1,0,2022-10-20 16:22:50,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5309,51,Torta del día,1,0,2022-10-20 16:23:20,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5309,,PROPINA,1,0,2022-10-20 16:23:20,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5310,48,Sandwich de pollo,3,0,2022-10-20 18:00:21,14000,5275,0,0,14000,0,0,42000,42000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5310,37,Bowl de Fruta Salpicon,1,0,2022-10-20 18:00:21,9000,2500,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5310,57,Cappucino en leche de vaca,1,0,2022-10-20 18:00:21,3000,1300,0,0,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5310,Soda,Soda hatsu ,2,0,2022-10-20 18:00:21,4500,2050,0,0,4500,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5310,,PROPINA,1,0,2022-10-20 18:00:21,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5311,39,Bowl de Avena Natural,1,0,2022-10-20 18:06:54,9000,4500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5311,48,Sandwich de pollo,1,0,2022-10-20 18:06:54,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5311,aguaplas01,agua plastica,1,0,2022-10-20 18:06:54,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5311,,PROPINA,1,0,2022-10-20 18:06:54,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5312,35,Parfait Explosión de Chocolate,1,0,2022-10-20 18:08:12,11000,4000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5312,67,Espresso Sencillo,1,0,2022-10-20 18:08:12,2500,608,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5312,Salm,Galletas de avena ,1,0,2022-10-20 18:08:12,2500,1664,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5312,,PROPINA,1,0,2022-10-20 18:08:12,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5313,51,Torta del día,1,0,2022-10-20 18:35:21,8000,3238,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5313,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-20 18:35:21,13000,6555,0,0,13000,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5313,,PROPINA,1,0,2022-10-20 18:35:21,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5314,44,Pancakes Tropical,1,0,2022-10-20 18:59:16,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5314,,PROPINA,1,0,2022-10-20 18:59:16,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5315,44,Pancakes Tropical,1,0,2022-10-21 08:33:03,16000,7270,0,0,16000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5315,,PROPINA,1,0,2022-10-21 08:33:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5316,70,Aromatica de Maracumango,1,0,2022-10-21 09:32:29,3000,1081,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5316,63,Té Chai en leche de vaca,1,0,2022-10-21 09:32:29,4000,1500,0,0,4000,0,0,4000,4000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5316,46,Omelett queso y champiñones,1,0,2022-10-21 09:32:29,8000,4100,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5316,44,Pancakes Tropical,1,0,2022-10-21 09:32:29,15500,7270,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5316,,PROPINA,1,0,2022-10-21 09:32:29,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5317,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-21 09:36:18,12000,5678,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5317,56,Cappucino en bebida Vegetal,1,0,2022-10-21 09:36:18,5000,2300,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5317,42,Waffle Fresa y Arandanos,1,0,2022-10-21 09:36:18,15500,5000,0,0,15500,0,0,15500,15500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5317,51,Torta del día,2,0,2022-10-21 09:36:18,8500,3238,0,0,8500,0,0,17000,17000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5317,,PROPINA,1,0,2022-10-21 09:36:18,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5318,76,Batido Refrescante,1,0,2022-10-21 09:47:06,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5318,35,Parfait Explosión de Chocolate,1,0,2022-10-21 09:47:06,11500,4000,0,0,11500,0,0,11500,11500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5318,48,Sandwich de pollo,1,0,2022-10-21 09:47:06,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5318,,PROPINA,1,0,2022-10-21 09:47:06,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5319,48,Sandwich de pollo,1,0,2022-10-21 09:47:23,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5319,,PROPINA,1,0,2022-10-21 09:47:23,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5321,76,Batido Refrescante,1,0,2022-10-21 10:56:52,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5321,48,Sandwich de pollo,1,0,2022-10-21 10:56:52,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5321,,PROPINA,1,0,2022-10-21 10:56:52,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5322,SC001,semillas de calabaza,0.5,0,2022-10-21 11:54:10,25000,21500,0,0,25000,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5322,SG01,Semillas de girasol,0.5,0,2022-10-21 11:54:10,10000,7000,0,0,10000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5322,ARNU,Trenza de nueces ,1,0,2022-10-21 11:54:10,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5322,,PROPINA,1,0,2022-10-21 11:54:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5323,42,Waffle Fresa y Arandanos,1,0,2022-10-21 11:54:46,15500,5000,0,0,15500,0,0,15500,15500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5323,48,Sandwich de pollo,1,0,2022-10-21 11:54:46,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5323,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-21 11:54:46,12000,5678,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5323,,PROPINA,1,0,2022-10-21 11:54:46,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5324,39,Bowl de Avena Natural,2,0,2022-10-21 11:57:30,9500,4500,0,0,9500,0,0,19000,19000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5324,,PROPINA,1,0,2022-10-21 11:57:30,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5325,51,Torta del día,2,0,2022-10-21 17:05:53,8000,3238,0,0,8000,0,0,16000,16000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5325,76,Batido Refrescante,1,0,2022-10-21 17:05:53,6000,2589,0,0,6000,0,0,6000,6000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5325,,PROPINA,1,0,2022-10-21 17:05:53,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5326,51,Torta del día,1,0,2022-10-21 17:08:44,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5326,,PROPINA,1,0,2022-10-21 17:08:44,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5327,48,Sandwich de pollo,3,0,2022-10-21 17:16:51,14000,5275,0,0,14000,0,0,42000,42000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5327,,PROPINA,1,0,2022-10-21 17:16:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5328,76,Batido Refrescante,1,0,2022-10-21 17:23:30,6000,2589,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5328,,PROPINA,1,0,2022-10-21 17:23:30,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5329,79,Soda con frutas,2,0,2022-10-21 17:34:49,5000,2000,0,0,5000,0,0,10000,10000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5329,,PROPINA,1,0,2022-10-21 17:34:49,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5330,79,Soda con frutas,1,0,2022-10-21 17:53:29,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5330,69,Aromatica de frutos Rojos,1,0,2022-10-21 17:53:29,3000,1500,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5330,,PROPINA,1,0,2022-10-21 17:53:29,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5331,00002,Quinoa Club,4,0,2022-10-21 18:13:28,2500,1200,0,0,2500,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5331,,PROPINA,1,0,2022-10-21 18:13:28,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5332,57,Cappucino en leche de vaca,1,0,2022-10-21 20:03:53,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5332,79,Soda con frutas,1,0,2022-10-21 20:03:53,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5332,,PROPINA,1,0,2022-10-21 20:03:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5333,54,Empanadas Integrales,1,0,2022-10-21 20:08:31,5000,3600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5333,52,Deditos de Queso Integral,1,0,2022-10-21 20:08:31,5000,3500,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5333,79,Soda con frutas,1,0,2022-10-21 20:08:31,5000,2000,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5333,48,Sandwich de pollo,2,0,2022-10-21 20:08:31,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5333,aguaplas01,agua plastica,1,0,2022-10-21 20:08:31,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5333,,PROPINA,1,0,2022-10-21 20:08:31,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5334,75,Batido Fresa y Banano en leche de vaca,1,0,2022-10-21 21:19:02,10000,4906,0,0,10000,0,0,10000,10000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5334,72,Batido de la casa en leche de vaca,1,0,2022-10-21 21:19:02,8000,3714,0,0,8000,0,0,8000,8000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5334,48,Sandwich de pollo,2,0,2022-10-21 21:19:02,14000,5275,0,0,14000,0,0,28000,28000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5334,,PROPINA,1,0,2022-10-21 21:19:02,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5335,42,Waffle Fresa y Arandanos,1,0,2022-10-22 09:05:54,15500,5000,0,0,15500,0,0,15500,15500,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5335,47,Omelett napolitano,2,0,2022-10-22 09:05:54,8000,3600,0,0,8000,0,0,16000,16000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5335,56,Cappucino en bebida Vegetal,2,0,2022-10-22 09:05:54,5000,2300,0,0,5000,0,0,10000,10000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5335,48,Sandwich de pollo,1,0,2022-10-22 09:05:54,14000,5275,0,0,14000,0,0,14000,14000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5335,57,Cappucino en leche de vaca,1,0,2022-10-22 09:05:54,3000,1300,0,0,3000,0,0,3000,3000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5335,SC001,semillas de calabaza,0.5,0,2022-10-22 09:05:54,25000,21500,0,0,25000,0,0,12500,12500,,tarjeta credito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5335,SG01,Semillas de girasol,1,0,2022-10-22 09:05:54,10000,7000,9000,9000,1000,0,0,1000,1000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,General,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5335,33,Granola Artesanal Fiocchi 300g,1,0,2022-10-22 09:05:54,25000,18750,0,0,25000,0,0,25000,25000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5335,Salm,Galletas de avena ,1,0,2022-10-22 09:05:54,2300,1664,0,0,2300,0,0,2300,2300,,tarjeta credito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5335,,PROPINA,1,0,2022-10-22 09:05:54,0,0,0,0,0,0,0,0,0,,tarjeta credito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5336,44,Pancakes Tropical,2,0,2022-10-22 09:09:47,16000,7270,0,0,16000,0,0,32000,32000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5336,,PROPINA,1,0,2022-10-22 09:09:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5337,47,Omelett napolitano,1,0,2022-10-22 09:28:21,8000,3600,0,0,8000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5337,39,Bowl de Avena Natural,2,0,2022-10-22 09:28:21,9000,4500,0,0,9000,0,0,18000,18000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5337,,PROPINA,1,0,2022-10-22 09:28:21,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5338,aguaplas01,agua plastica,2,0,2022-10-22 09:56:49,2500,1000,0,0,2500,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5338,81,Agua Manantial 500g,1,0,2022-10-22 09:56:49,3800,1750,800,800,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5338,,PROPINA,1,0,2022-10-22 09:56:49,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5339,54,Empanadas Integrales,5,0,2022-10-22 10:05:21,5000,3600,500,2500,4500,0,0,22500,22500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5339,66,Americano,2,0,2022-10-22 10:05:21,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5339,57,Cappucino en leche de vaca,1,0,2022-10-22 10:05:21,3000,1300,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5339,52,Deditos de Queso Integral,1,0,2022-10-22 10:05:21,5000,3500,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5339,,PROPINA,1,0,2022-10-22 10:05:21,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5340,50,Sandwich Napolitano,1,0,2022-10-22 10:07:35,13000,6312,0,0,13000,0,0,13000,13000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5340,66,Americano,1,0,2022-10-22 10:07:35,3000,1000,0,0,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5340,,PROPINA,1,0,2022-10-22 10:07:35,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5341,66,Americano,2,0,2022-10-22 10:07:55,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5341,,PROPINA,1,0,2022-10-22 10:07:55,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5342,48,Sandwich de pollo,1,0,2022-10-22 10:17:36,14000,5275,0,0,14000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5342,63,Té Chai en leche de vaca,1,0,2022-10-22 10:17:36,4000,1500,0,0,4000,0,0,4000,4000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5342,,PROPINA,1,0,2022-10-22 10:17:36,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5343,81,Agua Manantial 500g,1,0,2022-10-22 10:33:01,3800,1750,0,0,3800,0,0,3800,3800,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5343,49,Sandwich de atún,1,0,2022-10-22 10:33:01,13500,9300,0,0,13500,0,0,13500,13500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5343,,PROPINA,1,0,2022-10-22 10:33:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5344,48,Sandwich de pollo,1,0,2022-10-22 11:01:33,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5344,,PROPINA,1,0,2022-10-22 11:01:33,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5345,35,Parfait Explosión de Chocolate,2,0,2022-10-22 11:04:39,11500,4000,0,0,11500,0,0,23000,23000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5345,48,Sandwich de pollo,2,0,2022-10-22 11:04:39,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5345,,PROPINA,1,0,2022-10-22 11:04:39,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5346,66,Americano,1,0,2022-10-22 11:18:39,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5346,,PROPINA,1,0,2022-10-22 11:18:39,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5347,81,Agua Manantial 500g,1,0,2022-10-22 11:42:45,3800,1750,800,800,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5347,36,Parfait Balance,1,0,2022-10-22 11:42:45,12500,4500,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5347,,PROPINA,1,0,2022-10-22 11:42:45,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5348,75,Batido Fresa y Banano en leche de vaca,1,0,2022-10-22 11:47:13,10000,4906,0,0,10000,0,0,10000,10000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5348,52,Deditos de Queso Integral,1,0,2022-10-22 11:47:13,5000,3500,0,0,5000,0,0,5000,5000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5348,35,Parfait Explosión de Chocolate,1,0,2022-10-22 11:47:13,11000,4000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5348,48,Sandwich de pollo,1,0,2022-10-22 11:47:13,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5348,,PROPINA,1,0,2022-10-22 11:47:13,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5349,37,Bowl de Fruta Salpicon,1,0,2022-10-22 17:55:51,9000,2500,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5349,,PROPINA,1,0,2022-10-22 17:55:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5350,48,Sandwich de pollo,1,0,2022-10-24 08:37:12,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5350,,PROPINA,1,0,2022-10-24 08:37:12,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5351,6870312,Omelette + Huevos,2,0,2022-10-24 08:41:22,12000,5500,6000,12000,6000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5351,,PROPINA,1,0,2022-10-24 08:41:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5352,46,Omelette queso y champiñones,1,0,2022-10-24 10:35:07,9000,4100,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5352,57,Cappucino en leche de vaca,1,0,2022-10-24 10:35:07,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5352,,PROPINA,1,0,2022-10-24 10:35:07,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5353,66,Americano,2,0,2022-10-24 16:24:46,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5353,,PROPINA,1,0,2022-10-24 16:24:46,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5354,51,Torta del día,1,0,2022-10-24 16:28:06,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5354,,PROPINA,1,0,2022-10-24 16:28:06,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5355,57,Cappucino en leche de vaca,1,0,2022-10-24 17:00:01,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5355,,PROPINA,1,0,2022-10-24 17:00:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5356,RIND1,Roscones Artesonano Individual ,1,0,2022-10-24 17:13:14,3000,1700,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5356,,PROPINA,1,0,2022-10-24 17:13:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5357,50,Sandwich Napolitano,3,0,2022-10-24 17:30:27,15000,6312,0,0,15000,0,0,45000,45000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5357,76,Batido Refrescante,1,0,2022-10-24 17:30:27,7000,2589,0,0,7000,0,0,7000,7000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5357,,PROPINA,1,0,2022-10-24 17:30:27,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5358,44,Pancakes Tropical,1,0,2022-10-24 17:42:03,17000,7270,0,0,17000,0,0,17000,17000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5358,,PROPINA,1,0,2022-10-24 17:42:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5359,50,Sandwich Napolitano,2,0,2022-10-24 17:42:19,15000,6312,0,0,15000,0,0,30000,30000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5359,,PROPINA,1,0,2022-10-24 17:42:19,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5360,51,Torta del día,1,0,2022-10-24 18:28:59,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5360,,PROPINA,1,0,2022-10-24 18:28:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5361,48,Sandwich de pollo,2,0,2022-10-24 19:29:44,15000,5275,0,0,15000,0,0,30000,30000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5361,ahu,Pizza ahuyamin,1,0,2022-10-24 19:29:44,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5361,51,Torta del día,1,0,2022-10-24 19:29:44,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5361,81,Agua Manantial 500g,1,0,2022-10-24 19:29:44,3800,1750,800,800,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5361,,PROPINA,1,0,2022-10-24 19:29:44,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5362,48,Sandwich de pollo,3,0,2022-10-24 19:40:02,15000,5275,0,0,15000,0,0,45000,45000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5362,58,Latte en bebida Vegetal,2,0,2022-10-24 19:40:02,8000,3000,0,0,8000,0,0,16000,16000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5362,,PROPINA,1,0,2022-10-24 19:40:02,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5363,79,Soda con frutas,5,0,2022-10-24 19:57:35,6500,2000,0,0,6500,0,0,32500,32500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5363,sandwpo,Sándwich de pollo con manzana,1,0,2022-10-24 19:57:35,19000,6900,0,0,19000,0,0,19000,19000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5363,vegelpo,Pizza vegetales con pollo,2,0,2022-10-24 19:57:35,19000,6400,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5363,ahu,Pizza ahuyamin,1,0,2022-10-24 19:57:35,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5363,,PROPINA,1,0,2022-10-24 19:57:35,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5364,ahu,Pizza ahuyamin,1,0,2022-10-24 20:52:10,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5364,,PROPINA,1,0,2022-10-24 20:52:10,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5365,WHEVA,Waffle con Helado Vainilla,1,0,2022-10-24 21:00:53,16500,7800,0,0,16500,0,0,16500,16500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5365,57,Cappucino en leche de vaca,1,0,2022-10-24 21:00:53,3500,1300,0,0,3500,0,0,3500,3500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5365,tortchoc,Torta de chocolate ,1,0,2022-10-24 21:00:53,9000,6667,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5365,YGS05,Yogurt Griego 500g Syrus,2,0,2022-10-24 21:00:53,15000,10500,0,0,15000,0,0,30000,30000,,nequi,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5365,,PROPINA,1,0,2022-10-24 21:00:53,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5366,35,Parfait Explosión de Chocolate,1,0,2022-10-25 09:02:40,12000,4000,0,0,12000,0,0,12000,12000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5366,45,Omelett solo queso,1,0,2022-10-25 09:02:40,9000,3400,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5366,56,Cappucino en bebida Vegetal,1,0,2022-10-25 09:02:40,6000,2300,0,0,6000,0,0,6000,6000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5366,,PROPINA,1,0,2022-10-25 09:02:40,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5367,36,Parfait Balance,1,0,2022-10-25 10:53:29,13500,4500,0,0,13500,0,0,13500,13500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5367,,PROPINA,1,0,2022-10-25 10:53:29,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5368,81,Agua Manantial 500g,1,0,2022-10-25 10:55:03,3800,1750,0,0,3800,0,0,3800,3800,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5368,67,Espresso Sencillo,3,0,2022-10-25 10:55:03,2500,608,0,0,2500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5368,57,Cappucino en leche de vaca,4,0,2022-10-25 10:55:03,3500,1300,0,0,3500,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5368,48,Sandwich de pollo,3,0,2022-10-25 10:55:03,15000,5275,0,0,15000,0,0,45000,45000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5368,46,Omelette queso y champiñones,3,0,2022-10-25 10:55:03,9000,4100,0,0,9000,0,0,27000,27000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5368,,PROPINA,1,0,2022-10-25 10:55:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5369,59,Latte en leche de vaca,1,0,2022-10-25 11:17:57,5000,1600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5369,44,Pancakes Tropical,1,0,2022-10-25 11:17:57,17000,7270,0,0,17000,0,0,17000,17000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5369,,PROPINA,1,0,2022-10-25 11:17:57,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5370,62,Té Chai en bebida vegetal,1,0,2022-10-25 11:20:28,7000,2500,0,0,7000,0,0,7000,7000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5370,50,Sandwich Napolitano,1,0,2022-10-25 11:20:28,15000,6312,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5370,,PROPINA,1,0,2022-10-25 11:20:28,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5371,39,Bowl de Avena Natural,1,0,2022-10-25 12:08:40,10500,4500,0,0,10500,0,0,10500,10500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5371,46,Omelette queso y champiñones,1,0,2022-10-25 12:08:40,9500,4100,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5371,,PROPINA,1,0,2022-10-25 12:08:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5372,37,Bowl de Fruta Salpicon,1,0,2022-10-25 17:01:04,9500,2500,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5372,,PROPINA,1,0,2022-10-25 17:01:04,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5373,81,Agua Manantial 500g,1,0,2022-10-25 17:06:25,3800,1750,800,800,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5373,00002,Quinoa Club,1,0,2022-10-25 17:06:25,2200,1200,0,0,2200,0,0,2200,2200,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5373,MOCA,Mogollas de cuajada Artesano,1,0,2022-10-25 17:06:25,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5373,,PROPINA,1,0,2022-10-25 17:06:25,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5374,ARCA,Babka de cacao,1,0,2022-10-25 17:10:21,11000,8000,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5374,,PROPINA,1,0,2022-10-25 17:10:21,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5375,48,Sandwich de pollo,1,0,2022-10-25 18:28:01,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5375,,PROPINA,1,0,2022-10-25 18:28:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5376,57,Cappucino en leche de vaca,1,0,2022-10-25 18:29:12,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5376,52,Dedo de queso Integral,1,0,2022-10-25 18:29:12,5500,3500,500,500,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5376,,PROPINA,1,0,2022-10-25 18:29:12,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5377,PJCA,Pan de jamon y cuajada artesano,1,0,2022-10-25 18:36:06,12000,9000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5377,YGS05,Yogurt Griego 500g Syrus,1,0,2022-10-25 18:36:06,15000,10500,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5377,,PROPINA,1,0,2022-10-25 18:36:06,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5378,tortchoc,Torta de chocolate ,1,0,2022-10-25 18:54:35,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5378,,PROPINA,1,0,2022-10-25 18:54:35,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5379,48,Sandwich de pollo,3,0,2022-10-25 19:43:19,15000,5275,0,0,15000,0,0,45000,45000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5379,ensalapo,Ensalada con pollo,1,0,2022-10-25 19:43:19,22000,9500,0,0,22000,0,0,22000,22000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5379,81,Agua Manantial 500g,1,0,2022-10-25 19:43:19,3800,1750,800,800,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5379,63,Té Chai en leche de vaca,1,0,2022-10-25 19:43:19,4500,1500,0,0,4500,0,0,4500,4500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5379,,PROPINA,1,0,2022-10-25 19:43:19,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5380,47,Omelett napolitano,1,0,2022-10-26 08:39:29,9500,3600,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5380,60,Chocolate Experiencia en bebida Vegetal,1,0,2022-10-26 08:39:29,9500,4200,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5380,,PROPINA,1,0,2022-10-26 08:39:29,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5381,39,Bowl de Avena Natural,1,0,2022-10-26 08:51:17,10500,4500,0,0,10500,0,0,10500,10500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5381,,PROPINA,1,0,2022-10-26 08:51:17,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5382,46,Omelette queso y champiñones,1,0,2022-10-26 09:00:02,9500,4100,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5382,44,Pancakes Tropical,1,0,2022-10-26 09:00:02,17500,7270,0,0,17500,0,0,17500,17500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5382,,PROPINA,1,0,2022-10-26 09:00:02,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5383,61,Chocolate Experiencia en leche de Vaca,1,0,2022-10-26 10:03:31,6000,2774,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5383,47,Omelett napolitano,1,0,2022-10-26 10:03:31,9000,3600,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5383,,PROPINA,1,0,2022-10-26 10:03:31,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5384,66,Americano,1,0,2022-10-26 11:03:23,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5384,69,Aromatica de frutos Rojos,2,0,2022-10-26 11:03:23,4000,1500,0,0,4000,0,0,8000,8000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5384,Omelees,Omelette especial,1,0,2022-10-26 11:03:23,10000,4500,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5384,,PROPINA,1,0,2022-10-26 11:03:23,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5385,76,Batido Refrescante,1,0,2022-10-26 11:28:19,7000,2589,0,0,7000,0,0,7000,7000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5385,48,Sandwich de pollo,1,0,2022-10-26 11:28:19,15000,5275,0,0,15000,0,0,15000,15000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5385,37,Bowl de Fruta Salpicon,1,0,2022-10-26 11:28:19,9500,2500,0,0,9500,0,0,9500,9500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5385,51,Torta del día,1,0,2022-10-26 11:28:19,7500,3238,0,0,7500,0,0,7500,7500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5385,,PROPINA,1,0,2022-10-26 11:28:19,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5386,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-26 11:56:26,12500,5678,0,0,12500,0,0,12500,12500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5386,48,Sandwich de pollo,1,0,2022-10-26 11:56:26,15000,5275,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5386,,PROPINA,1,0,2022-10-26 11:56:26,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5387,43,Waffle Salado,1,0,2022-10-26 11:58:17,15000,4900,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5387,FRUTA,Porción fruta,1,0,2022-10-26 11:58:17,5000,2200,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5387,,PROPINA,1,0,2022-10-26 11:58:17,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5388,tortzana,Torta de zanahoria,1,0,2022-10-26 16:35:48,8500,5000,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5388,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-26 16:35:48,12500,5678,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5388,,PROPINA,1,0,2022-10-26 16:35:48,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5389,66,Americano,4,0,2022-10-26 16:53:45,3000,1000,0,0,3000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5389,72,Batido de la casa en leche de vaca,1,0,2022-10-26 16:53:45,8500,3714,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5389,tortzana,Torta de zanahoria,1,0,2022-10-26 16:53:45,8500,5000,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5389,,PROPINA,1,0,2022-10-26 16:53:45,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5390,48,Sandwich de pollo,2,0,2022-10-26 16:54:36,15000,5275,0,0,15000,0,0,30000,30000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5390,57,Cappucino en leche de vaca,1,0,2022-10-26 16:54:36,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5390,59,Latte en leche de vaca,1,0,2022-10-26 16:54:36,5000,1600,0,0,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5390,,PROPINA,1,0,2022-10-26 16:54:36,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5391,48,Sandwich de pollo,1,0,2022-10-26 19:07:46,15000,5275,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5391,,PROPINA,1,0,2022-10-26 19:07:46,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5392,carne,Sandwich de carne,1,0,2022-10-26 19:12:58,18000,6500,0,0,18000,0,0,18000,18000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5392,76,Batido Refrescante,1,0,2022-10-26 19:12:58,7000,2589,0,0,7000,0,0,7000,7000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5392,56,Cappucino en bebida Vegetal,1,0,2022-10-26 19:12:58,6000,2300,0,0,6000,0,0,6000,6000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5392,,PROPINA,1,0,2022-10-26 19:12:58,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5393,Soda,Soda hatsu ,1,0,2022-10-26 19:32:59,3500,2050,0,0,3500,0,0,3500,3500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5393,ensalapo,Ensalada con pollo,1,0,2022-10-26 19:32:59,22000,9500,0,0,22000,0,0,22000,22000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5393,,PROPINA,1,0,2022-10-26 19:32:59,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5394,79,Soda con frutas,2,0,2022-10-26 19:36:05,6500,2000,0,0,6500,0,0,13000,13000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5394,tortchoc,Torta de chocolate ,1,0,2022-10-26 19:36:05,9000,6667,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5394,Mufcho,Muffin de chocolate ,1,0,2022-10-26 19:36:05,7500,5000,0,0,7500,0,0,7500,7500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5394,carne,Sandwich de carne,1,0,2022-10-26 19:36:05,18000,6500,0,0,18000,0,0,18000,18000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5394,vegelpo,Pizza vegetales con pollo,1,0,2022-10-26 19:36:05,19000,6400,0,0,19000,0,0,19000,19000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5394,,PROPINA,1,0,2022-10-26 19:36:05,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5395,ahu,Pizza ahuyamin,2,0,2022-10-26 19:48:00,21000,8500,0,0,21000,0,0,42000,42000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5395,YGS05,Yogurt Griego 500g Syrus,1,0,2022-10-26 19:48:00,15000,10500,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5395,,PROPINA,1,0,2022-10-26 19:48:00,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5396,vegelpo,Pizza vegetales con pollo,2,0,2022-10-26 19:51:45,19000,6400,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5396,Cactus,Cactus,1,0,2022-10-26 19:51:45,22000,16000,0,0,22000,0,0,22000,22000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5396,tehat,Té hatsu,1,0,2022-10-26 19:51:45,6500,3200,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5396,tortchoc,Torta de chocolate ,1,0,2022-10-26 19:51:45,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5396,,PROPINA,1,0,2022-10-26 19:51:45,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5397,Trenznuec,Trenza de nueces ,1,0,2022-10-26 19:53:16,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5397,,PROPINA,1,0,2022-10-26 19:53:16,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5398,ahu,Pizza ahuyamin,1,0,2022-10-26 20:38:29,21000,8500,0,0,21000,0,0,21000,21000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5398,vegelpo,Pizza vegetales con pollo,1,0,2022-10-26 20:38:29,19000,6400,0,0,19000,0,0,19000,19000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5398,76,Batido Refrescante,1,0,2022-10-26 20:38:29,7000,2589,0,0,7000,0,0,7000,7000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5398,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-26 20:38:29,12500,5678,0,0,12500,0,0,12500,12500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5398,,PROPINA,1,0,2022-10-26 20:38:29,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5399,tortchoc,Torta de chocolate ,1,0,2022-10-26 20:56:01,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5399,,PROPINA,1,0,2022-10-26 20:56:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5400,YBN1,Yogurt Bebible 1lt Natural,2,0,2022-10-27 08:44:38,15000,11000,0,0,15000,0,0,30000,30000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,Yogurt,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5400,CMN2,Crema de Mani Natural 240g,1,0,2022-10-27 08:44:38,11500,6500,0,0,11500,0,0,11500,11500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,Cremas de Mani,Syrus,No,sin grupo
+Cabecera,general,0,,,No5400,,PROPINA,1,0,2022-10-27 08:44:38,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5401,36,Parfait Balance,1,0,2022-10-27 08:48:56,13500,4500,0,0,13500,0,0,13500,13500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5401,,PROPINA,1,0,2022-10-27 08:48:56,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5402,46,Omelette queso y champiñones,1,0,2022-10-27 09:46:16,9000,4100,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5402,,PROPINA,1,0,2022-10-27 09:46:16,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5403,46,Omelette queso y champiñones,1,0,2022-10-27 11:21:55,9000,4100,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5403,47,Omelett napolitano,1,0,2022-10-27 11:21:55,9000,3600,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5403,39,Bowl de Avena Natural,1,0,2022-10-27 11:21:55,10500,4500,0,0,10500,0,0,10500,10500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5403,tehat,Té hatsu,1,0,2022-10-27 11:21:55,6500,3200,0,0,6500,0,0,6500,6500,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5403,,PROPINA,1,0,2022-10-27 11:21:55,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5404,76,Batido Refrescante,1,0,2022-10-27 12:12:00,7000,2589,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5404,66,Americano,1,0,2022-10-27 12:12:00,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5404,,PROPINA,1,0,2022-10-27 12:12:00,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5405,RIND1,Roscones Artesonano Individual ,2,0,2022-10-27 17:58:41,3000,1700,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5405,66,Americano,1,0,2022-10-27 17:58:41,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5405,57,Cappucino en leche de vaca,1,0,2022-10-27 17:58:41,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5405,,PROPINA,1,0,2022-10-27 17:58:41,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5406,57,Cappucino en leche de vaca,1,0,2022-10-27 18:48:07,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5406,54,Empanadas Integrales,1,0,2022-10-27 18:48:07,5500,3600,500,500,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5406,,PROPINA,1,0,2022-10-27 18:48:07,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5407,35,Parfait Explosión de Chocolate,1,0,2022-10-27 19:57:33,12000,4000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5407,tortbana,Torta de banano ,1,0,2022-10-27 19:57:33,7500,5000,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5407,,PROPINA,1,0,2022-10-27 19:57:33,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5408,tortbana,Torta de banano ,1,0,2022-10-27 21:10:18,7500,5000,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5408,48,Sandwich de pollo,1,0,2022-10-27 21:10:18,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5408,,PROPINA,1,0,2022-10-27 21:10:18,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5409,71,Batido de la Casa en bebida Vegetal,1,0,2022-10-27 21:14:47,12500,5678,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5409,42,Waffle Fresa y Arandanos,1,0,2022-10-27 21:14:47,16500,5000,0,0,16500,0,0,16500,16500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5409,ahu,Pizza ahuyamin,1,0,2022-10-27 21:14:47,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5409,vegelpo,Pizza vegetales con pollo,2,0,2022-10-27 21:14:47,19000,6400,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5409,tortchoc,Torta de chocolate ,1,0,2022-10-27 21:14:47,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5409,tortbana,Torta de banano ,1,0,2022-10-27 21:14:47,7500,5000,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5409,,PROPINA,1,0,2022-10-27 21:14:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5410,48,Sandwich de pollo,3,0,2022-10-27 21:16:29,15000,5275,0,0,15000,0,0,45000,45000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5410,,PROPINA,1,0,2022-10-27 21:16:29,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5411,48,Sandwich de pollo,1,0,2022-10-28 08:33:20,15000,5275,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5411,73,Batido Frutos Rojos,1,0,2022-10-28 08:33:20,14000,6760,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5411,,PROPINA,1,0,2022-10-28 08:33:20,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5412,39,Bowl de Avena Natural,2,0,2022-10-28 08:58:27,10500,4500,0,0,10500,0,0,21000,21000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5412,,PROPINA,1,0,2022-10-28 08:58:27,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5413,45,Omelett solo queso,1,0,2022-10-28 09:37:34,11500,3400,0,0,11500,0,0,11500,11500,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5413,bowl,Bowl de frutas y yogurt griego,1,0,2022-10-28 09:37:34,6000,2500,0,0,6000,0,0,6000,6000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5413,,PROPINA,1,0,2022-10-28 09:37:34,0,0,0,0,0,0,0,0,0,,tarjeta credito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5414,Salm,Galletas de avena ,1,0,2022-10-28 09:57:18,2300,1664,0,0,2300,0,0,2300,2300,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5414,Soda,Soda hatsu ,1,0,2022-10-28 09:57:18,3500,2050,1000,1000,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5414,,PROPINA,1,0,2022-10-28 09:57:18,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5415,tehat,Té hatsu,2,0,2022-10-28 10:14:07,6500,3200,0,0,6500,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5415,44,Pancakes Tropical,2,0,2022-10-28 10:14:07,17000,7270,0,0,17000,0,0,34000,34000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5415,,PROPINA,1,0,2022-10-28 10:14:07,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5416,56,Cappucino en bebida Vegetal,2,0,2022-10-28 11:14:31,6000,2300,0,0,6000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5416,47,Omelett napolitano,1,0,2022-10-28 11:14:31,11500,3600,0,0,11500,0,0,11500,11500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5416,Omelees,Omelette especial,1,0,2022-10-28 11:14:31,10000,4500,0,0,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5416,,PROPINA,1,0,2022-10-28 11:14:31,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5417,66,Americano,2,0,2022-10-28 11:41:59,3000,1000,0,0,3000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5417,,PROPINA,1,0,2022-10-28 11:41:59,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5418,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-28 11:45:03,12500,6555,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5418,sandwpo,Sándwich de pollo con manzana,2,0,2022-10-28 11:45:03,19000,6900,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5418,,PROPINA,1,0,2022-10-28 11:45:03,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5419,48,Sandwich de pollo,1,0,2022-10-28 12:04:53,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5419,76,Batido Refrescante,1,0,2022-10-28 12:04:53,7000,2589,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5419,,PROPINA,1,0,2022-10-28 12:04:53,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5420,tortchoc,Torta de chocolate ,1,0,2022-10-28 16:43:16,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5420,,PROPINA,1,0,2022-10-28 16:43:16,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5421,36,Parfait Balance,1,0,2022-10-28 16:43:27,13500,4500,0,0,13500,0,0,13500,13500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5421,,PROPINA,1,0,2022-10-28 16:43:27,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5422,54,Empanadas Integrales,1,0,2022-10-28 17:19:11,5500,3600,500,500,5000,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5422,66,Americano,1,0,2022-10-28 17:19:11,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5422,,PROPINA,1,0,2022-10-28 17:19:11,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5423,WHEVA,Waffle con Helado Vainilla,1,0,2022-10-28 17:51:15,16500,7800,0,0,16500,0,0,16500,16500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5423,,PROPINA,1,0,2022-10-28 17:51:15,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5424,48,Sandwich de pollo,1,0,2022-10-28 17:55:41,15000,5275,0,0,15000,0,0,15000,15000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5424,49,Sandwich de atún,1,0,2022-10-28 17:55:41,18000,9300,0,0,18000,0,0,18000,18000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5424,61,Chocolate Experiencia en leche de Vaca,2,0,2022-10-28 17:55:41,6000,2774,0,0,6000,0,0,12000,12000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5424,,PROPINA,1,0,2022-10-28 17:55:41,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5425,tortbana,Torta de banano ,1,0,2022-10-28 19:43:38,7500,5000,0,0,7500,0,0,7500,7500,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5425,,PROPINA,1,0,2022-10-28 19:43:38,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5426,77,Batido Verde,1,0,2022-10-28 20:04:38,7000,3000,0,0,7000,0,0,7000,7000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5426,carne,Sandwich de carne,1,0,2022-10-28 20:04:38,18000,6500,0,0,18000,0,0,18000,18000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5426,vegelpo,Pizza vegetales con pollo,1,0,2022-10-28 20:04:38,19000,6400,0,0,19000,0,0,19000,19000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5426,,PROPINA,1,0,2022-10-28 20:04:38,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5427,tehat,Té hatsu,1,0,2022-10-28 20:11:14,6500,3200,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5427,ahu,Pizza ahuyamin,1,0,2022-10-28 20:11:14,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5427,,PROPINA,1,0,2022-10-28 20:11:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5428,48,Sandwich de pollo,2,0,2022-10-28 20:14:47,14000,5275,0,0,14000,0,0,28000,28000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5428,,PROPINA,1,0,2022-10-28 20:14:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5429,tehat,Té hatsu,1,0,2022-10-28 20:17:27,6500,3200,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5429,,PROPINA,1,0,2022-10-28 20:17:27,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5430,79,Soda con frutas,2,0,2022-10-28 20:27:30,6500,2000,0,0,6500,0,0,13000,13000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5430,49,Sandwich de atún,1,0,2022-10-28 20:27:30,18000,9300,0,0,18000,0,0,18000,18000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5430,sandwpo,Sándwich de pollo con manzana,1,0,2022-10-28 20:27:30,19000,6900,0,0,19000,0,0,19000,19000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5430,,PROPINA,1,0,2022-10-28 20:27:30,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5431,45,Omelett solo queso,1,0,2022-10-29 08:35:41,9000,3400,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5431,46,Omelette queso y champiñones,1,0,2022-10-29 08:35:41,9000,4100,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5431,57,Cappucino en leche de vaca,1,0,2022-10-29 08:35:41,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5431,,PROPINA,1,0,2022-10-29 08:35:41,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5432,74,Batido Fresa y Banano en bebida Vegetal,1,0,2022-10-29 08:39:21,12500,6555,0,0,12500,0,0,12500,12500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5432,sandwpo,Sándwich de pollo con manzana,2,0,2022-10-29 08:39:21,19000,6900,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5432,Omelees,Omelette especial,1,0,2022-10-29 08:39:21,10500,4500,0,0,10500,0,0,10500,10500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5432,44,Pancakes Tropical,1,0,2022-10-29 08:39:21,17000,7270,0,0,17000,0,0,17000,17000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5432,,PROPINA,1,0,2022-10-29 08:39:21,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5433,38,Bowl de Fruta Frutos Rojos,1,0,2022-10-29 09:10:57,11000,4325,0,0,11000,0,0,11000,11000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5433,CMC1,Crema de Choco Mani 130g,1,0,2022-10-29 09:10:57,9000,5500,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,Cremas de Mani,,No,sin grupo
+Cabecera,general,0,,,No5433,CMN2,Crema de Mani Natural 240g,1,0,2022-10-29 09:10:57,11500,6500,0,0,11500,0,0,11500,11500,,nequi,,,erickfaloquin@gmail.com,,,,Cremas de Mani,Syrus,No,sin grupo
+Cabecera,general,0,,,No5433,,PROPINA,1,0,2022-10-29 09:10:57,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5434,tortzana,Torta de zanahoria,1,0,2022-10-29 09:11:14,8500,5000,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5434,62,Té Chai en bebida vegetal,1,0,2022-10-29 09:11:14,7000,2500,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5434,,PROPINA,1,0,2022-10-29 09:11:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5435,42,Waffle Fresa y Arandanos,1,0,2022-10-29 09:30:38,16500,5000,0,0,16500,0,0,16500,16500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5435,45,Omelett solo queso,1,0,2022-10-29 09:30:38,9000,3400,0,0,9000,0,0,9000,9000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5435,59,Latte en leche de vaca,1,0,2022-10-29 09:30:38,5000,1600,0,0,5000,0,0,5000,5000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5435,tortbana,Torta de banano ,1,0,2022-10-29 09:30:38,7500,5000,0,0,7500,0,0,7500,7500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5435,61,Chocolate Experiencia en leche de Vaca,1,0,2022-10-29 09:30:38,6000,2774,0,0,6000,0,0,6000,6000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5435,,PROPINA,1,0,2022-10-29 09:30:38,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5436,aguaplas01,agua plastica,2,0,2022-10-29 10:09:14,2500,1000,0,0,2500,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5436,,PROPINA,1,0,2022-10-29 10:09:14,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5437,37,Bowl de Fruta Salpicon,1,0,2022-10-29 10:26:22,9500,2500,0,0,9500,0,0,9500,9500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5437,57,Cappucino en leche de vaca,1,0,2022-10-29 10:26:22,3500,1300,0,0,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5437,00002,Quinoa Club,1,0,2022-10-29 10:26:22,2500,1200,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5437,aguaplas01,agua plastica,1,0,2022-10-29 10:26:22,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5437,,PROPINA,1,0,2022-10-29 10:26:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5438,65,Te Matcha en leche de Vaca,1,0,2022-10-29 10:31:26,4500,1700,1000,1000,3500,0,0,3500,3500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5438,tortzana,Torta de zanahoria,1,0,2022-10-29 10:31:26,8500,5000,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5438,MFR1,Mermelada de Frutos rojos 130g,1,0,2022-10-29 10:31:26,7000,5000,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,Mermeladas,snucks,No,sin grupo
+Cabecera,general,0,,,No5438,47,Omelett napolitano,1,0,2022-10-29 10:31:26,9000,3600,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5438,,PROPINA,1,0,2022-10-29 10:31:26,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5439,40,Bowl Choco Avena,1,0,2022-10-29 10:41:02,13000,4500,0,0,13000,0,0,13000,13000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5439,,PROPINA,1,0,2022-10-29 10:41:02,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5440,66,Americano,1,0,2022-10-29 10:41:19,3000,1000,0,0,3000,0,0,3000,3000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5440,tortchoc,Torta de chocolate ,1,0,2022-10-29 10:41:19,9000,6667,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5440,,PROPINA,1,0,2022-10-29 10:41:19,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5441,39,Bowl de Avena Natural,1,0,2022-10-29 10:43:23,10500,4500,0,0,10500,0,0,10500,10500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5441,66,Americano,1,0,2022-10-29 10:43:23,3000,1000,0,0,3000,0,0,3000,3000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5441,,PROPINA,1,0,2022-10-29 10:43:23,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5442,tortchoc,Torta de chocolate ,1,0,2022-10-29 16:35:52,9000,6667,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5442,,PROPINA,1,0,2022-10-29 16:35:52,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5443,ARIT,Pan Italiano ,1,0,2022-10-29 17:46:47,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5443,,PROPINA,1,0,2022-10-29 17:46:47,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5444,51,Torta del día,1,0,2022-10-29 18:29:46,7500,3238,0,0,7500,0,0,7500,7500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5444,66,Americano,1,0,2022-10-29 18:29:46,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5444,48,Sandwich de pollo,1,0,2022-10-29 18:29:46,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5444,39,Bowl de Avena Natural,1,0,2022-10-29 18:29:46,10500,4500,0,0,10500,0,0,10500,10500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5444,aguaplas01,agua plastica,2,0,2022-10-29 18:29:46,2500,1000,0,0,2500,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5444,,PROPINA,1,0,2022-10-29 18:29:46,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5445,sandwpo,Sándwich de pollo con manzana,1,0,2022-10-29 19:23:30,19000,6900,0,0,19000,0,0,19000,19000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5445,76,Batido Refrescante,2,0,2022-10-29 19:23:30,7000,2589,0,0,7000,0,0,14000,14000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5445,,PROPINA,1,0,2022-10-29 19:23:30,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5446,tehat,Té hatsu,1,0,2022-10-29 19:24:36,6500,3200,0,0,6500,0,0,6500,6500,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5446,sandwpo,Sándwich de pollo con manzana,1,0,2022-10-29 19:24:36,19000,6900,0,0,19000,0,0,19000,19000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5446,,PROPINA,1,0,2022-10-29 19:24:36,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5447,ahu,Pizza ahuyamin,1,0,2022-10-29 19:25:18,21000,8500,0,0,21000,0,0,21000,21000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5447,vegelpo,Pizza vegetales con pollo,1,0,2022-10-29 19:25:18,19000,6400,0,0,19000,0,0,19000,19000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5447,,PROPINA,1,0,2022-10-29 19:25:18,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5448,DECOPE,Decoracion regalo canasta pequeña,1,0,2022-10-29 19:26:59,8000,6000,2000,2000,6000,0,0,6000,6000,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5448,55,Mini Pizza,1,0,2022-10-29 19:26:59,5500,3600,0,0,5500,0,0,5500,5500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5448,79,Soda con frutas,1,0,2022-10-29 19:26:59,6500,2000,0,0,6500,0,0,6500,6500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5448,35,Parfait Explosión de Chocolate,1,0,2022-10-29 19:26:59,12000,4000,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5448,,PROPINA,1,0,2022-10-29 19:26:59,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5449,79,Soda con frutas,1,0,2022-10-29 20:39:57,6500,2000,0,0,6500,0,0,6500,6500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5449,48,Sandwich de pollo,1,0,2022-10-29 20:39:57,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5449,vegelpo,Pizza vegetales con pollo,1,0,2022-10-29 20:39:57,19000,6400,0,0,19000,0,0,19000,19000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5449,,PROPINA,1,0,2022-10-29 20:39:57,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5450,00002,Quinoa Club,1,0,2022-10-29 20:41:51,2200,1200,0,0,2200,0,0,2200,2200,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5450,,PROPINA,1,0,2022-10-29 20:41:51,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5451,ensalapo,Ensalada con pollo,1,0,2022-10-29 21:12:28,22000,9500,0,0,22000,0,0,22000,22000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5451,48,Sandwich de pollo,1,0,2022-10-29 21:12:28,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5451,,PROPINA,1,0,2022-10-29 21:12:28,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5452,48,Sandwich de pollo,1,0,2022-10-31 09:01:01,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5452,,PROPINA,1,0,2022-10-31 09:01:01,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5453,46,Omelette queso y champiñones,1,0,2022-10-31 09:01:22,9000,4100,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5453,,PROPINA,1,0,2022-10-31 09:01:22,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5454,42,Waffle Fresa y Arandanos,1,0,2022-10-31 09:16:10,16500,5000,4500,4500,12000,0,0,12000,12000,,tarjeta debito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5454,,PROPINA,1,0,2022-10-31 09:16:10,0,0,0,0,0,0,0,0,0,,tarjeta debito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5455,56,Cappucino en bebida Vegetal,1,0,2022-10-31 10:01:58,6000,2300,0,0,6000,0,0,6000,6000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5455,76,Batido Refrescante,1,0,2022-10-31 10:01:58,7000,2589,0,0,7000,0,0,7000,7000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5455,48,Sandwich de pollo,1,0,2022-10-31 10:01:58,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5455,,PROPINA,1,0,2022-10-31 10:01:58,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5456,48,Sandwich de pollo,1,0,2022-10-31 10:30:03,15000,5275,0,0,15000,0,0,15000,15000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5456,35,Parfait Explosión de Chocolate,1,0,2022-10-31 10:30:03,12000,4000,0,0,12000,0,0,12000,12000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5456,,PROPINA,1,0,2022-10-31 10:30:03,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5457,53,Deditos de Queso Tradicional,1,0,2022-10-31 10:46:22,4000,3234,0,0,4000,0,0,4000,4000,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5457,57,Cappucino en leche de vaca,1,0,2022-10-31 10:46:22,3500,1300,0,0,3500,0,0,3500,3500,,tarjeta credito,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5457,,PROPINA,1,0,2022-10-31 10:46:22,0,0,0,0,0,0,0,0,0,,tarjeta credito,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5458,ARIT,Pan Italiano ,1,0,2022-10-31 11:10:08,11000,8000,0,0,11000,0,0,11000,11000,,efectivo,,,erickfaloquin@gmail.com,,,,General,Artesano,No,sin grupo
+Cabecera,general,0,,,No5458,66,Americano,1,0,2022-10-31 11:10:08,3000,1000,0,0,3000,0,0,3000,3000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5458,,PROPINA,1,0,2022-10-31 11:10:08,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5459,sandwpo,Sándwich de pollo con manzana,2,0,2022-10-31 11:10:30,19000,6900,0,0,19000,0,0,38000,38000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5459,,PROPINA,1,0,2022-10-31 11:10:30,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5460,aguaplas01,agua plastica,1,0,2022-10-31 11:12:40,2500,1000,0,0,2500,0,0,2500,2500,,efectivo,,,erickfaloquin@gmail.com,,,,General,snucks,No,sin grupo
+Cabecera,general,0,,,No5460,,PROPINA,1,0,2022-10-31 11:12:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5461,tortbana,Torta de banano ,1,0,2022-10-31 11:35:26,7500,5000,0,0,7500,0,0,7500,7500,,nequi,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5461,,PROPINA,1,0,2022-10-31 11:35:26,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5462,67,Espresso Sencillo,2,0,2022-10-31 11:50:56,2500,608,0,0,2500,0,0,5000,5000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5462,,PROPINA,1,0,2022-10-31 11:50:56,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5463,48,Sandwich de pollo,1,0,2022-10-31 16:56:56,15000,5275,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5463,,PROPINA,1,0,2022-10-31 16:56:56,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5464,72,Batido de la casa en leche de vaca,1,0,2022-10-31 16:59:50,8500,3714,0,0,8500,0,0,8500,8500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5464,ensalapo,Ensalada con pollo,1,0,2022-10-31 16:59:50,22000,9500,0,0,22000,0,0,22000,22000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5464,sandwpo,Sándwich de pollo con manzana,1,0,2022-10-31 16:59:50,19000,6900,0,0,19000,0,0,19000,19000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5464,,PROPINA,1,0,2022-10-31 16:59:50,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5465,tortzana,Torta de zanahoria,2,0,2022-10-31 17:29:36,8500,5000,0,0,8500,0,0,17000,17000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5465,,PROPINA,1,0,2022-10-31 17:29:36,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5466,YGS05,Yogurt Griego 500g Syrus,1,0,2022-10-31 18:08:24,15000,10500,0,0,15000,0,0,15000,15000,,efectivo,,,erickfaloquin@gmail.com,,,,Yogurt,Syrus,No,sin grupo
+Cabecera,general,0,,,No5466,CMM2,Crema de Mani Miel 240g,1,0,2022-10-31 18:08:24,11000,8000,1000,1000,10000,0,0,10000,10000,,efectivo,,,erickfaloquin@gmail.com,,,,Cremas de Mani,snucks,No,sin grupo
+Cabecera,general,0,,,No5466,,PROPINA,1,0,2022-10-31 18:08:24,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5467,35,Parfait Explosión de Chocolate,1,0,2022-10-31 18:41:40,12000,4000,0,0,12000,0,0,12000,12000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5467,,PROPINA,1,0,2022-10-31 18:41:40,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5468,WHEVA,Waffle con Helado Vainilla,1,0,2022-10-31 19:07:46,16500,7800,0,0,16500,0,0,16500,16500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5468,79,Soda con frutas,1,0,2022-10-31 19:07:46,6500,2000,0,0,6500,0,0,6500,6500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5468,,PROPINA,1,0,2022-10-31 19:07:46,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5469,46,Omelette queso y champiñones,1,0,2022-10-31 19:51:38,9000,4100,0,0,9000,0,0,9000,9000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5469,54,Empanadas Integrales,1,0,2022-10-31 19:51:38,5500,3600,0,0,5500,0,0,5500,5500,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5469,,PROPINA,1,0,2022-10-31 19:51:38,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5470,ahu,Pizza ahuyamin,1,0,2022-10-31 20:45:16,21000,8500,0,0,21000,0,0,21000,21000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5470,ensalapo,Ensalada con pollo,1,0,2022-10-31 20:45:16,22000,9500,0,0,22000,0,0,22000,22000,,efectivo,,,erickfaloquin@gmail.com,,,,General,,No,sin grupo
+Cabecera,general,0,,,No5470,79,Soda con frutas,2,0,2022-10-31 20:45:16,6500,2000,0,0,6500,0,0,13000,13000,,efectivo,,,erickfaloquin@gmail.com,,,,CARTA,Alfoli,No,sin grupo
+Cabecera,general,0,,,No5470,,PROPINA,1,0,2022-10-31 20:45:16,0,0,0,0,0,0,0,0,0,,efectivo,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+Cabecera,general,0,,,No5471,51,Torta del día,1,0,2022-10-31 20:52:40,9000,3238,0,0,9000,0,0,9000,9000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5471,48,Sandwich de pollo,1,0,2022-10-31 20:52:40,14000,5275,0,0,14000,0,0,14000,14000,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,snucks,No,sin grupo
+Cabecera,general,0,,,No5471,42,Waffle Fresa y Arandanos,1,0,2022-10-31 20:52:40,15500,5000,0,0,15500,0,0,15500,15500,,nequi,,,erickfaloquin@gmail.com,,,,CARTA,,No,sin grupo
+Cabecera,general,0,,,No5471,,PROPINA,1,0,2022-10-31 20:52:40,0,0,0,0,0,0,0,0,0,,nequi,,,erickfaloquin@gmail.com,,,,,,No,sin grupo
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,Devoluciones:,0,Ventas:,8448800,Total:,8448800,,,,,
